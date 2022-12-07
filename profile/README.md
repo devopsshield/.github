@@ -1,4 +1,4 @@
-## Hey 👋, Welcome to DevOps Shield!
+# Hey 👋, Welcome to DevOps Shield!
 
 > DevOps Shield - Your Business. We Protect It. Our mission is to protect your business and secure your DevOps. Join our mission to define your DevOps Shield Policy.
 
@@ -6,7 +6,7 @@
 
 DevOps Shield aims to support organizations comply with GitHub and Azure DevOps best practices. It defines and evaluates policies, reports non-compliant resources, advises using enhanced analytics and remediates the findings to enforce DevOps standards and assess compliance. 
 
-__Are you a CTO, IT Manager, DevOps Administrator looking for a solution to protect your business and secure your DevOps?__
+__Are you a CTO, CISO, IT Manager, DevOps Administrator, or Security Lead looking for a solution to protect your business and secure your DevOps?__
 
 DevOps Shield solution was designed to focus on your DevOps challenges to adopt best practices, enforce standards, and provide visibility across your DevOps implementation. How do you start? You can quickly create and configure your DevOps Shield solution from Azure Marketplace.
 
